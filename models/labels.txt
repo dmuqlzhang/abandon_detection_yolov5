@@ -1,0 +1,7 @@
+ore carrier
+container ship
+fishing boat
+passenger ship
+cargo carrier
+Sand-excavating ship
+dredger ship
